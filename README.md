@@ -7,7 +7,7 @@
   <p>
     <strong>Email:</strong> braxton@privacute.com<br>
     <strong>LinkedIn:</strong> linkedin.com/in/braxton-croley<br>
-    <strong>GitHub:</strong> github.com/braxton-privacute
+    <strong>GitHub:</strong> github.com/Privacute
   </p>
 
   <p>
@@ -82,7 +82,7 @@ GRC and compliance analyst with 5+ years across healthcare, financial services, 
 
 **Applied to a real assessment**: I used the engine to conduct a full current-state self-assessment of Privacute, my own company. The assessment identified four real findings across device encryption, AI-use governance, data-handling policy, and vendor inventory — each mapped to a verified SCF control, scored honestly (none rated above Medium, an accurate reflection of a small, pre-revenue company with strong technical hygiene and a handful of governance gaps), and used to drive real remediation. The findings and remediation are documented in Privacute's public-facing GRC Program Overview.
 
-**Link**: [example-clinic-grc-assessment](https://github.com/braxton-privacute/example-clinic-grc-assessment) — the engine and a full assessment run against a fictional clinical scenario
+**Link**: [example-clinic-grc-assessment](https://github.com/Privacute/example-clinic-grc-assessment) — the engine and a full assessment run against a fictional clinical scenario
 
 ## Venture: Privacute
 
@@ -93,7 +93,7 @@ GRC and compliance analyst with 5+ years across healthcare, financial services, 
 - **Honest, current-state claims only**: no company past-performance claims that can't be cited; all credentials attributed to my own background, not invented company history.
 - **Right-sized governance**: Privacute's own internal Data Handling & AI-Use Policy and GRC Program Overview document current practice as fact and mark planned controls explicitly as commitments, not implemented state — the same discipline the company sells to clients.
 
-**Links**: [privacute-grc-program](https://github.com/braxton-privacute/privacute-grc-program) — the published self-assessment and program documentation. Company site: `[privacute.com — pending launch]`
+**Links**: [privacute-grc-program](https://github.com/Privacute/privacute-grc-program) — the published self-assessment and program documentation. Company site: [privacute.github.io](https://privacute.github.io/)
 
 ## Professional Experience
 
